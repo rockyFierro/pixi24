@@ -1,4 +1,4 @@
-### Initial coding bible and reference for assiciated RisktoFall games.
+### Initial coding bible and reference for associated RisktoFall games.
 # intended research of
  - controller support
  - camera options
